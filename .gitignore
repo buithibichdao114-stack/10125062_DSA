@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build
+bin/
+obj/
+
+# Cache
+*.vsidx
+*.dtbcache.v2
+*.futdcache.v2
