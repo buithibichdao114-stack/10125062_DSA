@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="Bai 1_Quanlynnhietdo/Bai 1_Quanlynnhietdo.csproj" />
+  <Project Path="Bai 2_ThongKeTu/Bai 2_ThongKeTu.csproj" />
+  <Project Path="Bai 3_ Xulisonguyen/Bai 3_ Xulisonguyen.csproj" />
+  <Project Path="Bai 4_Matranxoanoc/Bai 4_Matranxoanoc.csproj" />
+  <Project Path="Bai 8_Gopdanhsach/Bai8_Gopdanhsach.csproj" Id="a9aea397-702f-4295-bba6-146ee8fbad5e" />
+  <Project Path="Bai10/Bai10.csproj" Id="71ece520-baef-422b-8f9d-9366f4117dde" />
+  <Project Path="Bai11/Bai11.csproj" Id="2b7d5cb4-1be3-449e-a29b-e48f65971923" />
+  <Project Path="Bai12/Bai12.csproj" Id="89ce4b53-7b9d-4930-9f92-d941786f335e" />
+  <Project Path="Bai4.1/Bai4.1.csproj" Id="642b67aa-7b30-43fe-9d55-051fc5754558" />
+  <Project Path="Bai4.2/Bai4.2.csproj" Id="5e1006f4-26d2-4e41-8bbd-34c822c0a84b" />
+  <Project Path="Bai4.3/Bai4.3.csproj" Id="4229d5e3-83b3-4bec-93aa-317d18c6779f" />
+  <Project Path="Bai4.4/Bai4.4.csproj" Id="db63e8dd-6ec9-4724-b17a-1cc41d2adbaf" />
+  <Project Path="Bai4.5/Bai4.5.csproj" Id="bf353efd-c987-4209-af11-b0628c3f8ead" />
+  <Project Path="Bai5_Matrandacbiet/Bai5_Matrandacbiet.csproj" />
+  <Project Path="Bai6_GameMineSweeper(Domin)/Bai6_GameMineSweeper(Domin).csproj" />
+  <Project Path="Bai7_Daonguocdanhsach/Bai7_Daonguocdanhsach.csproj" Id="e82c50f9-84cd-4130-bb50-386fb968093d" />
+  <Project Path="Bai9/Bai9.csproj" Id="e0b18c4d-6b87-46da-a8c6-0b04679cb728" />
+</Solution>
